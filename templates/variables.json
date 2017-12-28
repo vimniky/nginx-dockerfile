@@ -1,0 +1,4 @@
+{
+  "kibana_url": "{{getv "/self/service/metadata/kibana_url"}}",
+  "grafana_url": "{{getv "/self/service/metadata/grafana_url"}}"
+}
